@@ -1,0 +1,238 @@
+<?php defined('InShopNC') or exit('Access Invalid!'); return array (
+  'data' => 
+  array (
+    1 => 
+    array (
+      'gc_id' => '1',
+      'gc_name' => '飞禽类',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '1',
+      'gc_sort' => '255',
+      'gc_virtual' => '1',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    2 => 
+    array (
+      'gc_id' => '2',
+      'gc_name' => '兽类',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    3 => 
+    array (
+      'gc_id' => '3',
+      'gc_name' => '爬行类',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    256 => 
+    array (
+      'gc_id' => '256',
+      'gc_name' => '水族类',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    308 => 
+    array (
+      'gc_id' => '308',
+      'gc_name' => '兽类用品',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    470 => 
+    array (
+      'gc_id' => '470',
+      'gc_name' => '飞禽类用品',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    530 => 
+    array (
+      'gc_id' => '530',
+      'gc_name' => '爬行类用品',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    593 => 
+    array (
+      'gc_id' => '593',
+      'gc_name' => '水族类用品',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    662 => 
+    array (
+      'gc_id' => '662',
+      'gc_name' => '玩具类',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '0',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    262 => 
+    array (
+      'gc_id' => '262',
+      'gc_name' => '手机',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '257',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    263 => 
+    array (
+      'gc_id' => '263',
+      'gc_name' => '对讲机',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '257',
+      'commis_rate' => '0',
+      'gc_sort' => '255',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    1057 => 
+    array (
+      'gc_id' => '1057',
+      'gc_name' => '玩具',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '662',
+      'commis_rate' => '1',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+    1058 => 
+    array (
+      'gc_id' => '1058',
+      'gc_name' => '玩具',
+      'type_id' => '0',
+      'type_name' => '',
+      'gc_parent_id' => '1057',
+      'commis_rate' => '1',
+      'gc_sort' => '0',
+      'gc_virtual' => '0',
+      'gc_title' => '',
+      'gc_keywords' => '',
+      'gc_description' => '',
+    ),
+  ),
+  'parent' => 
+  array (
+    1 => '0',
+    2 => '0',
+    3 => '0',
+    256 => '0',
+    308 => '0',
+    470 => '0',
+    530 => '0',
+    593 => '0',
+    662 => '0',
+    262 => '257',
+    263 => '257',
+    1057 => '662',
+    1058 => '1057',
+  ),
+  'children' => 
+  array (
+    0 => 
+    array (
+      0 => '1',
+      1 => '2',
+      2 => '3',
+      3 => '256',
+      4 => '308',
+      5 => '470',
+      6 => '530',
+      7 => '593',
+      8 => '662',
+    ),
+    257 => 
+    array (
+      0 => '262',
+      1 => '263',
+    ),
+    662 => 
+    array (
+      0 => '1057',
+    ),
+    1057 => 
+    array (
+      0 => '1058',
+    ),
+  ),
+  'children2' => 
+  array (
+    662 => 
+    array (
+      0 => '1058',
+    ),
+  ),
+);
